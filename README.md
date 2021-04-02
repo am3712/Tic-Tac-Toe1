@@ -6,4 +6,5 @@ Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also
 # Learning outcomes
 After finishing this project, you'll get to know a lot about planning and developing a complex program from scratch, using methods, handling errors, and processing user input.
 
-This project is a part of the following track [Kotlin Developer]https://hyperskill.org/tracks/3
+# This project is a part of the following track 
+[Kotlin Developer]:https://hyperskill.org/tracks/3
